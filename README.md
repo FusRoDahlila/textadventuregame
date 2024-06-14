@@ -7,6 +7,7 @@
 
 Personal project used to practice writing in Java and refresh programming skills. Playing with the text adventure concept for fun!
 
+
 ## Compiling and Using
 
 .........................
