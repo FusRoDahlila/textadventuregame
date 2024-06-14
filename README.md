@@ -1,7 +1,7 @@
 # Text Adventure Game
 
-* Author: Bethany Grentz
-* Date: 6/13/2024
+Bethany Grentz
+6/13/2024
 
 ## Overview
 
