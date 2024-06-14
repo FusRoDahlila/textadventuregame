@@ -1,7 +1,7 @@
 # Text Adventure Game
 
-Bethany Grentz
-6/13/2024
+* Bethany Grentz
+* 6/13/2024
 
 ## Overview
 
